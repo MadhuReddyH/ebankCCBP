@@ -1,0 +1,24 @@
+.not-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-family: Roboto;
+  margin-top: 15px;
+}
+
+.not-img {
+  width: 30%;
+}
+
+.not-heading {
+  font-size: 32px;
+  font-weight: 600;
+  color: #183b56;
+}
+
+.not-p {
+  font-size: 22px;
+  color: #c3cad9;
+}
